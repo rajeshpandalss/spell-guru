@@ -1,7 +1,9 @@
 # SPELL-GURU
-## Run 'npm install'
 
-Ask Spell Guru to spell the words out for you. Just pronounce the words and hear Alexa spelling it out for you.
+## Installation
+Run 'npm install'
+
+## Ask Spell Guru to spell the words out for you. Just pronounce the words and hear Alexa spelling it out for you.
 
 You can try the following -
 
